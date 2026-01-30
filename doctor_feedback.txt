@@ -1,0 +1,3 @@
+appt001,Dr Tatenda Eben Mchomboh,Exercise more often
+appt003,Dr. Sana Fathima,Please fix sleep schedule
+appt002,Dr. Siti Mariam, Eat 3 times a day & Avoid junk food

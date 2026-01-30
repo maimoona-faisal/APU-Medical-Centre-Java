@@ -1,0 +1,4 @@
+doc001,LpCTNMU75abc,Dr. Tatenda Eben Mchomboh,tatendamchomboh@gmail.com,Lab Technician
+doc002,secureDoc2,Dr. Siti Mariam,siti.mariam@gmail.com,Dermatology
+doc003,medic123,Dr. Lim Wei Han,lim.wei.han@gmail.com,Neurology
+doc004,DocAPU346,Dr. Sana Fathima, sana.ftma@gmail.com, General Medicine

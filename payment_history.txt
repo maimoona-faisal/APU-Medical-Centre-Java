@@ -1,0 +1,4 @@
+recID,CustID,PaymentID,Date,Time,Amount,Status
+rec255,Cust004,Pay001,30/08/2025,14:20,150.00,Completed
+rec256,Cust004,Pay002,22/08/2025,16:30,200.00,Completed
+rec456,Cust002,Pay005,30/08/2025,12:10,100.0,Completed

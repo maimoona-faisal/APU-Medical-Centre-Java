@@ -1,0 +1,3 @@
+staff101,pass123,Ali Hussein,ali.hussein@gmail.com
+staff103,secure789,John Tan,john.tan@gmail.com
+staff104,myPass321,Nur Amina,nur.amina@gmail.com

@@ -1,0 +1,4 @@
+pay001,appt001,500.0,Credit/Debit Card,07-09-2025
+pay002,appt002,600.0,Online banking,07-09-2025
+pay003,appt003,500.0,Credit/Debit Card,07-09-2025
+pay004,appt006,300.0,EWallet,09-09-2025

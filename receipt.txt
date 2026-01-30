@@ -1,0 +1,4 @@
+rec255,doc001,cust001,Muhammad Hafiz,X-ray,150.00,"X-ray",30/08/2025,15:00
+rec256,doc002,cust002,Aisyah Binti Rahman,Blood Test,200.00,"Blood Test",22/08/2025,17:00
+rec706,doc001,cust002,Aisyah Binti Rahman,Stomach check,50.32,"Consultation fee : Stomach check",22-09-2025,01:49
+rec456,doc001,cust002,Aisyah Binti Rahman,Throat Pain,50.32,"Consultation fee : Throat pain",22-09-2025,01:49

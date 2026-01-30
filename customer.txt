@@ -1,0 +1,5 @@
+cust001,H@fiz123,Muhammad Hafiz,muhammad.hafiz@gmail.com
+cust002,A!$yah2004,Aisyah Binti Rahman,aisyah.rahman@gmail.com
+cust003,Latin&123,Lim Jia Wei,lim.jiawei@gmail.com
+cust004,M@ry567,Maryam Saeed,mymsfsl@gmail.com
+cust005,helloyou,Mary,Ting@gmail.com,+60-11-1789-1011,12-05-2009
